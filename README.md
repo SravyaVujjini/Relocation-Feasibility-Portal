@@ -1,6 +1,6 @@
 # Relocation Feasibility Portal using Cost of Living Data
 
-This project creates a portal for assisting users in making financially-informed relocation decisions by using a dataset from Kaggle that details the cost of living of over 4,500 cities globally. The main objective is to provide personalized affordability analysis, considering various factors such as incoem and lifestyle choices, to help users to evaluate the feasibility of living in specific locations.
+This project creates a portal for assisting users in making financially-informed relocation decisions by using a dataset from Kaggle that details the cost of living of over 4,500 cities globally. The main objective is to provide personalized affordability analysis, considering various factors such as income and lifestyle choices, to help users to evaluate the feasibility of living in specific locations.
 
 Users will input a salary and their ideal budget breakdown for various categories of expenses in order to produce a list of places that best accommodate their preferences.
 
